@@ -1,7 +1,3 @@
-# Set 404 pages
-https://www.detest.tremendous.ml/* /de/404.html 404
-https://www.entest.tremendous.ml/* /en/404.html 404
-
 # Canonicalize URLs
 https://detest.tremendous.ml/*  https://www.detest.tremendous.ml/:splat 301!
 http://detest.tremendous.ml/*  https://www.detest.tremendous.ml/:splat 301!
@@ -14,3 +10,7 @@ http://www.entest.tremendous.ml/*  https://www.entest.tremendous.ml/:splat 301!
 # Configure language rewrites
 https://www.detest.tremendous.ml/*  /de/:splat 200!
 https://www.entest.tremendous.ml/*  /en/:splat 200!
+
+# Set 404 pages
+https://www.detest.tremendous.ml/* /de/404.html 404
+https://www.entest.tremendous.ml/* /en/404.html 404
