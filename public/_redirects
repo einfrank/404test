@@ -1,6 +1,6 @@
 # Set 404 pages
-/de/* /de/404.html 404
-/en/*  /en/404.html 404
+https://www.detest.tremendous.ml/* /de/404.html 404
+https://www.entest.tremendous.ml/* /en/404.html 404
 
 # Canonicalize URLs
 https://detest.tremendous.ml/*  https://www.detest.tremendous.ml/:splat 301!
