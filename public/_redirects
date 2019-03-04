@@ -12,5 +12,6 @@ https://www.detest.tremendous.ml/*  /de/:splat 200!
 https://www.entest.tremendous.ml/*  /en/:splat 200!
 
 # Set 404 pages
-https://www.detest.tremendous.ml/* /de/404.html 404
-https://www.entest.tremendous.ml/* /en/404.html 404
+# https://www.detest.tremendous.ml/* /de/404.html 404
+# https://www.entest.tremendous.ml/* /en/404.html 404
+/* /de/404.html 404
